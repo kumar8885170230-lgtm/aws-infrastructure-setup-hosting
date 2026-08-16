@@ -174,3 +174,53 @@ Scalability
 Fault Tolerance
 
 Monitoring & Troubleshooting
+
+## 📸 AWS Implementation Screenshots
+
+### 1. VPC
+![VPC](01-vpc%5B1%5D.png)
+
+### 2. Subnets
+![Subnets](02-subnets%5B1%5D.png)
+
+### 3. Internet Gateway
+![Internet Gateway](03-internet-gateway%5B1%5D.png)
+
+### 4. NAT Gateway
+![NAT Gateway](04-nat-gateway%5B1%5D.png)
+
+### 5. Route Tables
+![Route Tables](05-route-tables%5B1%5D.png)
+
+### 6. Security Groups
+![Security Groups](06-security-groups%5B1%5D.png)
+
+### 7. EC2 Instances
+![EC2 Instances](07-ec2-instances%5B1%5D.png)
+
+### 8. Target Groups
+![Target Groups](08-target-groups%5B1%5D.png)
+
+### 9. Application Load Balancer
+![Load Balancer](09-load-balancer%5B1%5D.png)
+
+### 10. AMI
+![AMI](10-ami%5B1%5D.png)
+
+### 11. Auto Scaling Groups
+![Auto Scaling](11-auto-scaling-groups%5B1%5D.png)
+
+### 12. Public EC2 Instance 1
+![Public EC2 Instance 1](12-public-instance-1%5B1%5D.png)
+
+### 13. Public EC2 Instance 2
+![Public EC2 Instance 2](13-public-instance-2%5B1%5D.png)
+
+### 14. RDS MySQL
+![RDS MySQL](14-rds-mysql%5B1%5D.png)
+
+### 15. Database Output
+![Database Output 1](15-database-output-1%5B1%5D.png)
+
+### 16. Database Output
+![Database Output 2](16-database-output-2%5B1%5D.png)
